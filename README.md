@@ -1,2 +1,2 @@
 # WPeMatico2UserID
-Replace the user selection drop-down box with the user ID input box when filling in the rules
+In the original WPeMatico, when filling in the RSS crawling rules, you select the account to publish by selecting the drop-down box. When the number of users is large, a series of operational troubles will occur. Now you can overwrite the file of this project in your WPeMatico, replace the drop-down selection box with the user ID input box.
